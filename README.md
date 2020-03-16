@@ -60,7 +60,7 @@
 |   作品管理   |   对作品增删查改   |    :o:     |
 | 约拍类型管理 | 对约拍类型增删查改 |    :o:     |
 |  轮播图管理  |  对轮播图增删查改  |    :o:     |
-|  打卡点管理  |  对打卡点增删查改  |    :x:     |
+|  打卡点管理  |  对打卡点增删查改  | :computer: |
 | 统计用户城市 |    统计用户城市    |    :o:     |
 |   统计约拍   |      统计约拍      | :computer: |
 |   统计作品   |      统计作品      | :computer: |
@@ -81,41 +81,41 @@
 
 ### 后端
 
-|            技术            |         名称          | 集成状态 |
-| :------------------------: | :-------------------: | :------: |
-|        Spring Boot         |  微服务应用基础框架   |   :o:    |
-|        Spring Cloud        |    微服务集成框架     |   :o:    |
-|    Spring Cloud Config     |    分布式配置中心     |   :o:    |
-|    Spring Cloud Eureka     |    服务注册与发现     |   :o:    |
-|           Zipkin           |       链路追踪        |   :o:    |
-|            Zuul            |        API网关        |   :o:    |
-|     Spring Boot Admin      |       服务监控        |   :x:    |
-|           Maven            |     项目构建管理      |   :o:    |
-|           Nexus3           |       Maven私服       |   :o:    |
-|        阿里云 云效         | 持续集成CI/持续部署CD |   :o:    |
-|           Gitee            |       代码仓库        |   :o:    |
-| 阿里云云数据库RDS MySQL5.7 |        数据库         |   :o:    |
-|           Druid            |     数据库连接池      |   :o:    |
-|          MyBatis           |        ORM框架        |   :o:    |
-|         PageHelper         |       分页插件        |   :o:    |
-|       Redis Sentinel       |       哨兵集群        |   :o:    |
-|         阿里云OSS          |      云对象存储       |   :o:    |
-|          Swagger2          |    API文档生成工具    |   :o:    |
-|        RESTful API         |    RESTful风格API     |   :o:    |
-|           Nginx            |      代理服务器       |   :x:    |
-|           Docker           |       应用容器        |   :o:    |
-|         Kubernetes         |       应用容器        |   :o:    |
-|       阿里云镜像仓库       |    阿里云镜像仓库     |   :o:    |
-|           Scrapy           |    Python爬虫框架     |   :o:    |
-|           OAuth2           |     身份/权限认证     |   :x:    |
-|           Quartz           |    分布式任务调度     |   :x:    |
-|       Elastic Search       |    分布式全文搜索     |   :x:    |
-|          RabbitMQ          |       消息队列        |   :x:    |
-|          短信通知          |                       |   :x:    |
-|          邮件发送          |                       |   :x:    |
-|         支付宝支付         |                       |   :x:    |
-|          微信登录          |                       |   :x:    |
-|         微信公众号         |                       |   :x:    |
+|            技术            |         名称          |  集成状态  |
+| :------------------------: | :-------------------: | :--------: |
+|        Spring Boot         |  微服务应用基础框架   |    :o:     |
+|        Spring Cloud        |    微服务集成框架     |    :o:     |
+|    Spring Cloud Config     |    分布式配置中心     |    :o:     |
+|    Spring Cloud Eureka     |    服务注册与发现     |    :o:     |
+|           Zipkin           |       链路追踪        |    :o:     |
+|            Zuul            |        API网关        |    :o:     |
+|     Spring Boot Admin      |       服务监控        |    :x:     |
+|           Maven            |     项目构建管理      |    :o:     |
+|           Nexus3           |       Maven私服       |    :o:     |
+|        阿里云 云效         | 持续集成CI/持续部署CD |    :o:     |
+|           Gitee            |       代码仓库        |    :o:     |
+| 阿里云云数据库RDS MySQL5.7 |        数据库         |    :o:     |
+|           Druid            |     数据库连接池      |    :o:     |
+|          MyBatis           |        ORM框架        |    :o:     |
+|         PageHelper         |       分页插件        |    :o:     |
+|       Redis Sentinel       |       哨兵集群        |    :o:     |
+|         阿里云OSS          |      云对象存储       |    :o:     |
+|          Swagger2          |    API文档生成工具    |    :o:     |
+|        RESTful API         |    RESTful风格API     |    :o:     |
+|           Nginx            |      代理服务器       |    :x:     |
+|           Docker           |       应用容器        |    :o:     |
+|         Kubernetes         |       应用容器        |    :o:     |
+|       阿里云镜像仓库       |    阿里云镜像仓库     |    :o:     |
+|           Scrapy           |    Python爬虫框架     |    :o:     |
+|           OAuth2           |     身份/权限认证     |    :x:     |
+|           Quartz           |    分布式任务调度     |    :x:     |
+|       Elastic Search       |    分布式全文搜索     |    :o:     |
+|          RabbitMQ          |       消息队列        |    :x:     |
+|          短信通知          |                       |    :x:     |
+|          邮件发送          |                       |    :x:     |
+|         支付宝支付         |                       |    :x:     |
+|          微信登录          |                       |    :x:     |
+|         微信公众号         |                       | :computer: |
 
 ### 前端
 
@@ -176,7 +176,7 @@
 | [panda-common-comsumer](https://gitee.com/Panda_Appointment/panda-common-comsumer) |           通用的服务消费者            |  https://gitee.com/Panda_Appointment/panda-common-comsumer   | :x:  |
 | [panda-service-provider-user](https://gitee.com/Panda_Appointment/panda-service-provider-user) |            服务提供者-用户            | https://gitee.com/Panda_Appointment/panda-service-provider-user | :x:  |
 | [panda-service-provider-image](https://gitee.com/Panda_Appointment/panda-service-provider-image) |            图片服务提供者             | https://gitee.com/Panda_Appointment/panda-service-provider-image | :x:  |
-| [panda-service-provider-carousel](https://gitee.com/Panda_Appointment/panda-service-provider-carousel) |           轮播图服务提供者            | https://gitee.com/Panda_Appointment/panda-service-provider-carousel | :x:  |
+| [panda-service-provider-TCarousel](https://gitee.com/Panda_Appointment/panda-service-provider-TCarousel) |           轮播图服务提供者            | https://gitee.com/Panda_Appointment/panda-service-provider-TCarousel | :x:  |
 | [panda-service-provider-redis](https://gitee.com/Panda_Appointment/panda-service-provider-redis) |          缓存服务提供者redis          | https://gitee.com/Panda_Appointment/panda-service-provider-redis | :x:  |
 | [panda-service-provider-appointment](https://gitee.com/Panda_Appointment/panda-service-provider-appointment) |            约拍服务提供者             | https://gitee.com/Panda_Appointment/panda-service-provider-appointment | :x:  |
 | [panda-service-provider-appointment-type](https://gitee.com/Panda_Appointment/panda-service-provider-appointment-type) |          约拍类型服务提供者           | https://gitee.com/Panda_Appointment/panda-service-provider-appointment-type | :x:  |
