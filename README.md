@@ -230,6 +230,8 @@
 
 ### 作品截图
 
+#### 网站
+
 主页
 
 <img style="magin:10px; box-shadow: 2px 2px 10px #f1f1f1f1" src="https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/1%20-%20%E4%B8%BB%E9%A1%B5.png" />
@@ -323,3 +325,19 @@
 登录
 
 ![](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/10%20-%20%E7%99%BB%E5%BD%95.png)
+
+
+
+#### APP / 微信小程序
+
+![](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/app/0%20-%20%E9%A1%B5%E9%9D%A2%E5%90%88%E9%9B%86.PNG)
+
+#### 微信公众号
+
+![微信公众号页面合集](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/wx-public-platform/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E9%A1%B5%E9%9D%A2%E5%90%88%E9%9B%86.PNG)
+
+
+
+#### 后台管理系统
+
+![](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/back-manage-system/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E9%A1%B5%E9%9D%A2%E5%90%88%E9%9B%86.png)
