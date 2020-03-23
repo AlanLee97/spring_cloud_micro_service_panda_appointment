@@ -206,13 +206,13 @@
 
 ### 微信公众号
 
-![qrcode_for_gh_a80b923fbc86_258](E:/%E6%88%91%E7%9A%84%E5%9D%9A%E6%9E%9C%E4%BA%91/OneDrive/%E5%AD%A6%E4%B9%A0/%E7%AC%94%E8%AE%B0/%E5%9B%BE%E7%89%87/note_images/20200323125638-860112.jpeg)
+![qrcode_for_gh_a80b923fbc86_258](https://alanlee-image-bed.oss-cn-shenzhen.aliyuncs.com/note_images/20200323125706-298071.jpeg)
 
 ### 微信小程序
 
 审核中
 
-![小程序](E:/%E6%88%91%E7%9A%84%E5%9D%9A%E6%9E%9C%E4%BA%91/OneDrive/%E5%AD%A6%E4%B9%A0/%E7%AC%94%E8%AE%B0/%E5%9B%BE%E7%89%87/note_images/20200323125806-1480.jpeg)
+![小程序](https://alanlee-image-bed.oss-cn-shenzhen.aliyuncs.com/note_images/20200323125826-678960.jpeg)
 
 ### 安卓 APP
 
@@ -232,5 +232,5 @@
 
 主页
 
-![主页](https://gitee.com/Panda_Appointment/spring_cloud_micro_service_panda_appointment/raw/master/assert/images/web-site/1-主页.png)
+<img style="magin:10px; box-shadow: 1px 1px 10px #d1d1d1d1" src="https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/1%20-%20%E4%B8%BB%E9%A1%B5.png" />
 
