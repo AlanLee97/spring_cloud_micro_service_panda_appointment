@@ -232,5 +232,5 @@
 
 主页
 
-![主页](https://gitee.com/Panda_Appointment/spring_cloud_micro_service_panda_appointment/raw/master/assert/images/web-site/1 - 主页.png)
+![主页](https://gitee.com/Panda_Appointment/spring_cloud_micro_service_panda_appointment/raw/master/assert/images/web-site/1-主页.png)
 
