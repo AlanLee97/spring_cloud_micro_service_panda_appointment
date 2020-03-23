@@ -232,5 +232,94 @@
 
 主页
 
-<img style="magin:10px; box-shadow: 1px 1px 10px #d1d1d1d1" src="https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/1%20-%20%E4%B8%BB%E9%A1%B5.png" />
+<img style="magin:10px; box-shadow: 2px 2px 10px #f1f1f1f1" src="https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/1%20-%20%E4%B8%BB%E9%A1%B5.png" />
 
+
+
+约拍
+
+![约拍](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/2%20-%20%E7%BA%A6%E6%8B%8D.png)
+
+
+
+约拍详情页
+
+![约拍详情页](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/2-1%20-%20%E7%BA%A6%E6%8B%8D%E8%AF%A6%E6%83%85.png)
+
+
+
+作品
+
+![作品](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/3%20-%20%E4%BD%9C%E5%93%81.png)
+
+
+
+作品详情页
+
+![作品详情页](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/3-1%20-%20%E4%BD%9C%E5%93%81%E8%AF%A6%E6%83%85.png)
+
+
+
+打卡点
+
+![打卡点](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/4%20-%20%E6%89%93%E5%8D%A1%E7%82%B9.png)
+
+
+
+打卡点详情页
+
+![打卡点详情页](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/4-1%20-%20%E6%89%93%E5%8D%A1%E7%82%B9%E8%AF%A6%E6%83%85%E9%A1%B5.png)
+
+
+
+搜索
+
+![搜索](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/5%20-%20%E6%90%9C%E7%B4%A2.png)
+
+
+
+发布约拍
+
+![](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/6%20-%20%E5%8F%91%E5%B8%83%E7%BA%A6%E6%8B%8D.png)
+
+
+
+个人主页 - 我的约拍
+
+![](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/7-1%20-%20%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%20-%20%E7%BA%A6%E6%8B%8D.png)
+
+
+
+个人主页 - 我的作品
+
+![](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/7-2%20-%20%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%20-%20%E4%BD%9C%E5%93%81.png)
+
+
+
+个人主页 - 我的相册
+
+![](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/7-3%20-%20%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%20-%20%E7%9B%B8%E5%86%8C.png)
+
+
+
+个人主页 - 排期
+
+![个人主页 - 排期](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/7-4%20-%20%20%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%20-%20%E6%8E%92%E6%9C%9F.png)
+
+
+
+约拍类型
+
+![约拍类型](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/8%20-%20%E7%BA%A6%E6%8B%8D%E7%B1%BB%E5%9E%8B.png)
+
+
+
+注册
+
+![](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/9%20-%20%E6%B3%A8%E5%86%8C.png)
+
+
+
+登录
+
+![](https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/images/website/10%20-%20%E7%99%BB%E5%BD%95.png)
