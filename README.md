@@ -187,3 +187,48 @@
 | [panda-service-sso](https://gitee.com/Panda_Appointment/panda-service-sso) |             单点登录服务              |    https://gitee.com/Panda_Appointment/panda-service-sso     | :x:  |
 | [panda-service-consumer-user](https://gitee.com/Panda_Appointment/panda-service-consumer-user) |            服务消费者-用户            | https://gitee.com/Panda_Appointment/panda-service-consumer-user | :x:  |
 
+
+
+## 安装说明
+
+### 网站
+
+- 主地址：http://panda.alanlee.top
+- 备用地址1：http://panda.nibuguai.cn
+
+> 体验账号
+>
+> 帐号：test
+>
+> 密码：123456
+
+
+
+### 微信公众号
+
+![qrcode_for_gh_a80b923fbc86_258](E:/%E6%88%91%E7%9A%84%E5%9D%9A%E6%9E%9C%E4%BA%91/OneDrive/%E5%AD%A6%E4%B9%A0/%E7%AC%94%E8%AE%B0/%E5%9B%BE%E7%89%87/note_images/20200323125638-860112.jpeg)
+
+### 微信小程序
+
+审核中
+
+![小程序](E:/%E6%88%91%E7%9A%84%E5%9D%9A%E6%9E%9C%E4%BA%91/OneDrive/%E5%AD%A6%E4%B9%A0/%E7%AC%94%E8%AE%B0/%E5%9B%BE%E7%89%87/note_images/20200323125806-1480.jpeg)
+
+### 安卓 APP
+
+下载地址：https://alanlee-panda-appointment.oss-cn-shenzhen.aliyuncs.com/assert/package/panda-appointment.apk
+
+![app](https://alanlee-image-bed.oss-cn-shenzhen.aliyuncs.com/note_images/20200323125827-616732.png)
+
+> 体验账号
+>
+> 帐号：test
+>
+> 密码：123456
+
+
+
+### 作品截图
+
+主页
+
