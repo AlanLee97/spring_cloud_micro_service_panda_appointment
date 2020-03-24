@@ -176,6 +176,8 @@
 
 |                             名称                             |                 描述                  |                             链接                             | 公开 |
 | :----------------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------: | :--: |
+|   [Panda_Appointment](https://gitee.com/Panda_Appointment)   |             熊猫约拍项目              |  https://gitee.com/organizations/Panda_Appointment/projects  | :o:  |
+| [spring_cloud_micro_service_panda_appointment](https://gitee.com/Panda_Appointment/spring_cloud_micro_service_panda_appointment) |  熊猫约拍项目-该仓库只存放README文档  | https://gitee.com/Panda_Appointment/spring_cloud_micro_service_panda_appointment |      |
 | [panda-files](https://gitee.com/Panda_Appointment/panda-files) | 存放文件docker-compose.yml和shell文件 |       https://gitee.com/Panda_Appointment/panda-files        | :o:  |
 | [panda-config-repo](https://gitee.com/Panda_Appointment/panda-config-repo) |   分布式配置中心-存放配置文件的仓库   |    https://gitee.com/Panda_Appointment/panda-config-repo     | :x:  |
 | [panda-dependencies](https://gitee.com/Panda_Appointment/panda-dependencies) |            统一的依赖管理             |    https://gitee.com/Panda_Appointment/panda-dependencies    | :x:  |
@@ -186,6 +188,7 @@
 | [panda-zipkin](https://gitee.com/Panda_Appointment/panda-zipkin) |            分布式链路追踪             |       https://gitee.com/Panda_Appointment/panda-zipkin       | :x:  |
 | [panda-gateway](https://gitee.com/Panda_Appointment/panda-gateway) |              分布式网关               |      https://gitee.com/Panda_Appointment/panda-gateway       | :x:  |
 | [panda-common](https://gitee.com/Panda_Appointment/panda-common) |             通用项目模块              |       https://gitee.com/Panda_Appointment/panda-common       | :x:  |
+| [panda-common-microservice-component](https://gitee.com/Panda_Appointment/panda-common-microservice-component) |          微服务通用组件依赖           | https://gitee.com/Panda_Appointment/panda-common-microservice-component | :x:  |
 | [panda-common-provider](https://gitee.com/Panda_Appointment/panda-common-provider) |           通用的服务提供者            |  https://gitee.com/Panda_Appointment/panda-common-provider   | :x:  |
 | [panda-common-comsumer](https://gitee.com/Panda_Appointment/panda-common-comsumer) |           通用的服务消费者            |  https://gitee.com/Panda_Appointment/panda-common-comsumer   | :x:  |
 | [panda-service-provider-user](https://gitee.com/Panda_Appointment/panda-service-provider-user) |            服务提供者-用户            | https://gitee.com/Panda_Appointment/panda-service-provider-user | :x:  |
@@ -196,8 +199,14 @@
 | [panda-service-provider-appointment-type](https://gitee.com/Panda_Appointment/panda-service-provider-appointment-type) |          约拍类型服务提供者           | https://gitee.com/Panda_Appointment/panda-service-provider-appointment-type | :x:  |
 | [panda-service-provider-works](https://gitee.com/Panda_Appointment/panda-service-provider-works) |            作品服务提供者             | https://gitee.com/Panda_Appointment/panda-service-provider-works | :x:  |
 | [panda-service-provider-order](https://gitee.com/Panda_Appointment/panda-service-provider-order) |            订单服务提供者             | https://gitee.com/Panda_Appointment/panda-service-provider-order | :x:  |
+| [panda-service-provider-spot](https://gitee.com/Panda_Appointment/panda-service-provider-spot) |           打卡点服务提供者            | https://gitee.com/Panda_Appointment/panda-service-provider-spot | :x:  |
+| [panda-service-provider-quartz](https://gitee.com/Panda_Appointment/panda-service-provider-quartz) |          定时任务服务提供者           | https://gitee.com/Panda_Appointment/panda-service-provider-quartz | :x:  |
 | [panda-service-sso](https://gitee.com/Panda_Appointment/panda-service-sso) |             单点登录服务              |    https://gitee.com/Panda_Appointment/panda-service-sso     | :x:  |
 | [panda-service-consumer-user](https://gitee.com/Panda_Appointment/panda-service-consumer-user) |            服务消费者-用户            | https://gitee.com/Panda_Appointment/panda-service-consumer-user | :x:  |
+| [panda-frontend](https://gitee.com/Panda_Appointment/panda-frontend) |            vue前端部署项目            |      https://gitee.com/Panda_Appointment/panda-frontend      | :x:  |
+| [vue_panda_appointment](https://gitee.com/Panda_Appointment/vue_panda_appointment) |      熊猫约拍 - Vue前端代码仓库       |  https://gitee.com/Panda_Appointment/vue_panda_appointment   | :x:  |
+| [panda-frontend-admin](https://gitee.com/Panda_Appointment/panda-frontend-admin) |         后台管理系统部署项目          |   https://gitee.com/Panda_Appointment/panda-frontend-admin   | :x:  |
+| [vue_admin_panda_appointment](https://gitee.com/Panda_Appointment/vue_admin_panda_appointment) |    熊猫约拍 - vue后台管理代码仓库     | https://gitee.com/Panda_Appointment/vue_admin_panda_appointment | :x:  |
 
 
 
@@ -222,7 +231,7 @@
 
 ### 微信小程序
 
-审核中
+审核未通过、请使用安卓app
 
 ![小程序](https://alanlee-image-bed.oss-cn-shenzhen.aliyuncs.com/note_images/20200323125826-678960.jpeg)
 
