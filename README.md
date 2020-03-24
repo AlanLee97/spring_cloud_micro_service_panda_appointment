@@ -164,7 +164,7 @@
 
 ### 系统架构图
 
-![image-20200310113200257](https://images.gitee.com/uploads/images/2020/0310/113729_a9e3ffb3_2231089.png)
+![熊猫约拍架构图](https://alanlee-image-bed.oss-cn-shenzhen.aliyuncs.com/note_images/20200324124354-537300.png)
 
 ### 部署架构图
 
