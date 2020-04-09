@@ -101,8 +101,11 @@
 |        Spring Cloud        |    微服务集成框架     |   :o:    |
 |    Spring Cloud Config     |    分布式配置中心     |   :o:    |
 |    Spring Cloud Eureka     |    服务注册与发现     |   :o:    |
+|     Spring Cloud Feign     |    声明式服务调用     |   :o:    |
+|    Spring Cloud Ribbon     |    客户端负载均衡     |   :o:    |
+|    Spring Cloud Hystrix    |     服务容错保护      |   :o:    |
+|     Spring Cloud Zuul      |        API网关        |   :o:    |
 |           Zipkin           |       链路追踪        |   :o:    |
-|            Zuul            |        API网关        |   :o:    |
 |     Spring Boot Admin      |       服务监控        |   :o:    |
 |           Maven            |     项目构建管理      |   :o:    |
 |           Nexus3           |       Maven私服       |   :o:    |
